@@ -116,6 +116,7 @@ govolsxtra.com,legacy.com#@##advertising_wrapper
 flyroyalbrunei.com#@##adverts
 tirebusiness.com#@##advtop
 bionity.com,frumforum.com,windows7gadgets.net#@##adwrapper
+fcbarcelona.dk#@##article_ad
 allieiswired.com,catb.org#@##banner-ad
 asuragen.com#@##bannerAd
 visitscotland.com#@##bannerAdWrapper
@@ -365,6 +366,7 @@ community.pictavo.com#@#.ads-2
 community.pictavo.com#@#.ads-3
 mommyish.com#@#.ads-300-250
 dova-s.jp,pch.com#@#.ads-area
+in.fo#@#.ads-banner
 hellogiggles.com#@#.ads-bg
 queer.pl#@#.ads-col
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header

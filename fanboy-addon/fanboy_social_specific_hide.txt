@@ -58,6 +58,7 @@ mydorpie.com###blwh
 cricketnetwork.co.uk,f1network.net,rugbynetwork.net,thefootballnetwork.net###bookmarks
 baystatebanner.com###bot-soc-icon-wrap
 profitguide.com###builder-124
+slickdeals.net###buyNowShareContainer
 cambio.com###cambio-follow
 overstock.com###cars-facebook
 overstock.com###cars-twitter
@@ -787,7 +788,7 @@ classybro.com##.lbx_content
 classybro.com##.lbx_overlay
 yourweather.co.uk##.liCompartir
 monova.org##.lightbox
-base64decode.org,base64encode.org##.like
+base64decode.org,base64encode.org,theshovel.com.au##.like
 labour.org.nz,nzfirst.org.nz##.like-page
 addictivetips.com##.like-this
 badoo.com##.like-wrap
@@ -1091,6 +1092,7 @@ indiatoday.in##.story-like-dislike
 csmonitor.com##.story-tool
 driving.ca,politico.com##.story-tools
 brobible.com##.storyLike
+etonline.com##.story__links
 chinadailyasia.com##.stsbox
 sextvx.com##.stvxp-social-reddit
 ndtv.com##.sty-updtd

@@ -110,6 +110,7 @@ focus.de##.socBm
 focus.de##.socInfo
 az.com.na,businessinsider.de,europages.de,fc-suedtirol.com,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 futurezone.at##.social > li > a > img
+deutsche-wirtschafts-nachrichten.de##.social-line
 marcopolo.de##.socialWeb
 schwaebische.de##.social_communities
 delivering-tomorrow.de##.some-links
@@ -142,6 +143,7 @@ gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
 ||deutschlandfunkkultur.de^*/icon_sprite.svg
 ||dict.cc/img/fbplus1.png
 ||die-kopie.info/bilder/facebook.png
+||kleiner-kalender.de/static/social-media.html
 ||nibelungenkurier.de/t-ticker/
 ||rtl.de/fb/
 ||seitzeichen.de^$third-party
@@ -494,6 +496,7 @@ fantagazzetta.com##.btn-sm
 giornaledibrescia.it,teletutto.it##.btn-toolbar
 money.it##.btnYou
 cirio.it##.cirioYou
+giocodigitale.game##.cloux-social-links
 lemillericette.it##.code-block-10
 tio.ch##.companyPagesBox
 toplegal.it##.cond

@@ -26,7 +26,7 @@ renault-koenig.de###cook
 bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 bambergfacts.de###cookiebar-007
 0rechner.de###cookieconsentmodal
-abload.de,autoampel.de,blockfloete.eu,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 start-nrw.de###cpopup
 ruegenwalder.de###csdialogbd
 ruegenwalder.de###csdialogmd2
@@ -41,6 +41,7 @@ carl-walther.de###disclaimer-bar
 novasol.at###disclosure-container
 fool.de###dogfish
 strabag-pfs.de###dsgvo
+mail.de###euccBanner
 autokostencheck.de###footerSlideContainer
 pokewiki.de###gl-topbar-bg
 aida.de###hfas782aj
@@ -186,7 +187,7 @@ telekom.de##.message-bar
 fc.de##.mod-alert
 csu.de##.mod-layer
 zurich.de##.mod-notification-teaser
-felix1.de##.modal-backdrop
+felix1.de,mainz05.de##.modal-backdrop
 moon-power.com##.moon2-statisticsOptBox
 roland-schuhe.de##.newsflash
 kvvks.de,messe-kassel.de##.note
@@ -750,7 +751,7 @@ fastalp.biz###policy
 aeroporto.catania.it,bapr.it,saverioriotto.it###policy_id
 informacatania.it,tuodi.it###popup
 voloweb.it###popupDivC
-alceosalentino.it,chemistresearch.it,cinquantamila.it,metroservices.it###privacy
+alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it###privacy
 testisemplificati.com###privacy-modal
 jusan.it###privacy-popup
 coni.it###privacy-wrapper
@@ -833,7 +834,7 @@ monzacalcio.com##.modal
 alfasigma.com,elevensports.it,feralpisalo.it,metro.it,monzacalcio.com##.modal-backdrop
 informazione.it##.modal-body
 telethon.it##.modalMessage
-forumfree.it##.note
+forumcommunity.net,forumfree.it##.note
 initalia.it##.notice-wrap
 vg247.it##.notif-bar
 lidl.it##.notification

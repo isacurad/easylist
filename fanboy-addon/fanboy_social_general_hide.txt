@@ -1510,6 +1510,8 @@
 ###service_tw
 ###sexy-bookmarks
 ###sexy-bookmarks-wrapper
+###sfsi_floater
+###sfsi_plus_floater
 ###sh_socialized
 ###sh_video_link
 ###share-3
@@ -2324,6 +2326,7 @@
 ###social_fb
 ###social_fixed
 ###social_float_box
+###social_follow
 ###social_followers
 ###social_footer
 ###social_googleplus
@@ -4484,6 +4487,7 @@
 ##.current-article-button-facebook
 ##.currentArticleShareIcons
 ##.custom-fb-button
+##.custom-follow-bar
 ##.custom-follow-button
 ##.custom-google-plus-button
 ##.custom-nav-social-media
@@ -4520,6 +4524,7 @@
 ##.d1-social-article
 ##.dSocialBtn
 ##.dSocialButton
+##.dan-shariff-wrapper
 ##.dark-social
 ##.dashicons-facebook
 ##.dashicons-twitter
@@ -5183,6 +5188,7 @@
 ##.fb_widget
 ##.fb_wrap
 ##.fbar_blog_share
+##.fbbackground
 ##.fbbigshare
 ##.fbbox
 ##.fbbox-wrapper
@@ -6117,7 +6123,9 @@
 ##.header-social-button-tw
 ##.header-social-button-yt
 ##.header-social-buttons
+##.header-social-facebook
 ##.header-social-icons
+##.header-social-insta
 ##.header-social-item
 ##.header-social-link
 ##.header-social-links
@@ -6127,6 +6135,7 @@
 ##.header-social-share
 ##.header-social-shares
 ##.header-social-shim
+##.header-social-twitter
 ##.header-socials
 ##.header-special-social
 ##.header-sub-area-sns
@@ -7981,6 +7990,7 @@
 ##.pane-social-links
 ##.pane-social-plugins-social-plugins-widget
 ##.pane-social-widget-items
+##.pane-socialblock
 ##.pane-storypage-sharethis
 ##.panel--follow
 ##.panel--social
@@ -9677,6 +9687,7 @@
 ##.sidebar_social
 ##.sidebar_socialmediabox
 ##.sidebar_socials
+##.sidebarbox__facebook_fan_counter
 ##.sidebarsharer
 ##.sidebarsocial
 ##.sidebartwitter
@@ -13112,6 +13123,7 @@
 ##div[class$="_social_icons_widget"]
 ##div[class*="_share_tools_"]
 ##div[class^="ArticleShareLinks_"]
+##div[class^="Component-followAp-"]
 ##div[class^="FooterSocialLinks"]
 ##div[class^="ShareButtons_"]
 ##div[class^="ShareLinks_"]
@@ -13149,6 +13161,8 @@
 ##div[id^="footer-social-"]
 ##div[id^="footer-social_"]
 ##div[id^="gigya_share_button"]
+##div[id^="js-Social-Share-"]
+##div[id^="js-Stay-Connected-"]
 ##div[id^="penci-social-counter-"]
 ##div[id^="pw_widget_"]
 ##div[id^="simple_tweet_widget"]

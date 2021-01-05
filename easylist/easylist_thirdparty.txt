@@ -480,6 +480,7 @@
 ||d2qz7ofajpstv5.cloudfront.net^
 ||d2szg1g41jt3pq.cloudfront.net^
 ||d2taktuuo4oqx.cloudfront.net^
+||d2uap9jskdzp2.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
 ||d31vxm9ubutrmw.cloudfront.net^
 ||d33otidwg56k90.cloudfront.net^
@@ -986,7 +987,6 @@
 ||literatureandlatte.com/gfx/buynowaffiliate.jpg
 ||livecrics.livet20worldcup.com/video.php$domain=iplstream.com
 ||liveperson.com/affiliates/
-||liveresources.mensxp.com^$third-party
 ||liveshows.com^*/live.js$third-party
 ||llnwd.net/o28/assets/*-sponsored-
 ||llnwd.net/tools/tags/interstitial/
@@ -1038,6 +1038,7 @@
 ||mediaplex.com/ad/js/$third-party
 ||medrx.telstra.com.au^
 ||memepix.com/spark.php?
+||mensxp.com^$third-party,xmlhttprequest
 ||metaboli.fr^*/adgude_$third-party
 ||metroland.com/wagjag/
 ||mfcdn.net/store/spotlight/

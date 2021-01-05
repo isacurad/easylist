@@ -38,8 +38,6 @@
 ||adf.ly/omni*.swf
 ||adidas.com/analytics/
 ||adidas.com^*/analytics/
-||adprimemedia.com^*/video_report/attemptAdReport.php?
-||adprimemedia.com^*/video_report/videoReport.php?
 ||adroll.com/pixel/
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
@@ -63,12 +61,12 @@
 ||airbnb.*/tracking/
 ||airfrance.com/s/?tcs=
 ||airnewzealand.eu^$ping
-||airspacemag.com/g/g/button/
+||airtable.com/internal/$xmlhttprequest
+||airtable.com^*/reports
 ||akamai.net^$script,domain=argos.co.uk|newscientist.com|upwork.com
 ||akamai.net^*/button.clickability.com/
 ||akamaihd.net/pixelkabam/
 ||akamaihd.net^$script,domain=allmodern.com|birchlane.com|perigold.com|wayfair.co.uk|wayfair.com
-||akamaihd.net^*.gif$image,domain=globalnews.ca|inquirer.net
 ||alb.reddit.com^
 ||alibaba.com/js/beacon_
 ||alicdn.com/js/aplus_*.js
@@ -518,6 +516,7 @@
 ||db.com^*/stats.js?
 ||dc.banggood.com^
 ||dccss.banggood.com^
+||dcf.espn.com^
 ||dd.nytimes.com^
 ||dealnews.com/lw/ul.php?
 ||debtconsolidationcare.com/affiliate/tracker/
@@ -847,7 +846,7 @@
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -1173,6 +1172,7 @@
 ||lovefilm.com^*/lf-perf-beacon.png
 ||lslmetrics.djlmgdigital.com^
 ||lucidchart.com/analytics_
+||lulus.com/api/track/events
 ||luxurylink.com/t/hpr.php?
 ||ly.lygo.com^*/jquery.lycostrack.js
 ||m.putlocker.how/tracking
@@ -1476,6 +1476,7 @@
 ||pbsrc.com/common/pixel.png
 ||pch.com^*/scripts/Analytics/
 ||pch.com^*/SpectrumAnalytics.js?
+||pci3oo5mg4mn-a.akamaihd.net^
 ||pckeeper.com^*/pixels/
 ||pclick.europe.yahoo.com^
 ||pclick.internal.yahoo.com^
@@ -1677,8 +1678,6 @@
 ||rismedia.com/tracking.js
 ||ritzcarlton.com/ritz/crossDomainTracking.mi?
 ||riverisland.com^*/mindshare.min.js
-||rkdms.com/order.gif?
-||rkdms.com/sid.gif?
 ||ro89.com/hitme.php?
 ||roadandtrack.com^*/RTdartSite.js
 ||roblox.com/www/e.png?
@@ -2032,6 +2031,7 @@
 ||stomp.com.sg/site/servlet/tracker
 ||store.yahoo.net^*/ywa.js
 ||storenvy.com/tracking/
+||streamta.pe/stat/
 ||streetdirectory.com/tracking/
 ||streetfire.net/flash/trackingutility.swf
 ||streetfire.net/handlers/logstreamfileimpression.ashx?
@@ -2102,6 +2102,7 @@
 ||tcpalm.com/metrics/
 ||tdwaterhouse.ca/includes/javascript/rtesurvey.js
 ||tdwaterhouse.co.uk^*/track.js
+||techspot.com/geoip/
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
@@ -2263,8 +2264,7 @@
 ||triadretail.com^*/roverTrack.js
 ||trialpay.com/mi/
 ||triond.com/cntimp?
-||tripadvisor.*/PageMoniker?
-||tripadvisor.com/uvpages/page_moniker.html
+||tripadvisor.com^*/rum
 ||trivago.com/check-session-state?
 ||trivago.com/tracking/
 ||trk.flazio.com^
@@ -2319,6 +2319,8 @@
 ||u46.pnc.com^
 ||u47.pnc.com^
 ||ua.indianexpress.com^
+||ubereats.com/_events
+||ubereats.com/_track
 ||ucoz.com/stat/
 ||ucweb.com/collect/
 ||ui-portal.com/1and1/mailcom/s?
@@ -2615,16 +2617,14 @@
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! Adobe
+||lightning.ncaa.com/launch/$script
 ! first-party tracking
-||as01.overbuff.com^
-||gk3o.trackdota.com^
-||k9v7.dotabuff.com^
-||mqzy.dotabuff.com^
-||nj1r.valorbuff.com^
-||nkeq.speedrun.com^
-||nvea.valorbuff.com^
-||pqoz.trackdota.com^
-||uuqz.overbuff.com^
+||eu1l.dotabuff.com^
+||eu1l.overbuff.com^
+||eu1l.speedrun.com^
+||eu1l.trackdota.com^
+||eu1l.valorbuff.com^
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx

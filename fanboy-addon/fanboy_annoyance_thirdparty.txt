@@ -29,7 +29,6 @@
 ||appboy.eu^$third-party
 ||assets.simplifydigital.co.uk^$third-party
 ||asterilivestream.com^$third-party
-||attn.tv/theblock/dtag.js
 ||autolinkmaker.itunes.apple.com^$third-party
 ||ayc0zsm69431gfebd.xyz^$third-party
 ||badges.alltop.com^$third-party
@@ -173,7 +172,6 @@
 ||js.brow.si^$third-party
 ||jugglu.com^$third-party
 ||kaango.com/feCustomWidgetDisplay/$third-party
-||klaviyo.com^$third-party
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
 ||leadpages.co^$third-party
@@ -229,7 +227,7 @@
 ||page2rss.com^$third-party
 ||parse.ly^$third-party
 ||partner.dw.com^$third-party
-||pelcro.com^$third-party
+||pelcro.com^$third-party,domain=newsweek.com
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
 ||placehold.it^$third-party
@@ -389,11 +387,13 @@
 ||zotabox.com^*/widgets.js$third-party
 ! 3rd-party sounds
 ||appspot.com/sounds/chatmsg.mp3
+||driftqa.com/conductor/assets/media/
 ||helpscout.net/static/ui-sounds/
 ||js.driftt.com/deploy/assets/static/audio/
 ||js.intercomcdn.com/audio/
 ||livechatinc.com/widget/static/media/
 ||reamaze.com/audio/
+||zdassets.com/web_widget/$media
 ! Taboola
 ||taboola.com^$third-party
 ||taboolasyndication.com^$third-party

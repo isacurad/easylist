@@ -90,11 +90,15 @@
 -ad-300x250.
 -ad-300x450.
 -ad-300x600-
+-ad-300x600px.
 -ad-303x481-
 -ad-313x232.
 -ad-336x280-
 -ad-340x400-
+-ad-360x600.
+-ad-360x72.
 -ad-400.
+-ad-458x80.
 -ad-472x365.
 -ad-640x480.
 -ad-970-
@@ -707,7 +711,6 @@
 .net/adgallery
 .net/adj;
 .net/ads-
-.net/ads/
 .net/ads?
 .net/ads_
 .net/adt?
@@ -882,6 +885,7 @@
 /_30/ads/*
 /__adstop.
 /_ads/*
+/_adslot/*
 /_affiliatebanners/*
 /_global/ads/*
 /_img/ad_
@@ -2389,10 +2393,10 @@
 /ads.compat.
 /ads.css
 /ads.dll/*
+/ads.entry_
 /ads.gif
 /ads.htm
 /ads.jplayer.
-/ads.js/*
 /ads.json?
 /ads.jsp
 /ads.load.
@@ -3505,7 +3509,7 @@
 /advertiserwidget.
 /advertises/*
 /advertisewithus_
-/advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
+/advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
 /advertising/banner_
 /advertising/traffic-
@@ -4667,7 +4671,7 @@
 /exo_bck_
 /exoads/*
 /exobanner.
-/exoclick.$domain=~exoclick.bamboohr.co.uk|~exoclick.com|~exoclick.kayako.com
+/exoclick.$~script,domain=~exoclick.bamboohr.co.uk|~exoclick.com|~exoclick.kayako.com
 /exoclick/*$domain=~exoclick.com
 /exoclickright.
 /exoclickright1.
@@ -8203,6 +8207,7 @@ _prx/ba_$script
 /st_prebid.js
 /tagman/*
 _prebid-$script
+_prebid.js
 _prebid8.
 _prebid_
 ~Prebid.js

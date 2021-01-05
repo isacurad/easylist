@@ -1610,6 +1610,7 @@
 ###adPosition7
 ###adPosition9
 ###adPush
+###adPushdown1
 ###adRContain
 ###adRectangleFooter
 ###adRectangleHeader
@@ -1714,6 +1715,7 @@
 ###adSpotIslandLarge
 ###adSpotSponsoredLinks
 ###adSpotholder-EGN
+###adSpotlight2
 ###adSpotlightSquare1
 ###adSqb
 ###adSquare
@@ -2921,6 +2923,7 @@
 ###adsSPRBlock
 ###adsSectionLeft
 ###adsSectionRight
+###adsSquare
 ###adsSuperCTN
 ###adsTop
 ###adsTopLeft
@@ -3740,6 +3743,7 @@
 ###advertising_320
 ###advertising_728
 ###advertising_728_under
+###advertising__banner__content
 ###advertising_btm
 ###advertising_column
 ###advertising_container
@@ -3752,6 +3756,7 @@
 ###advertising_wrapper
 ###advertisment-block-1
 ###advertisment-horizontal
+###advertisment-text
 ###advertisment1
 ###advertismentBottom728x90_
 ###advertismentElementInUniversalbox
@@ -5209,6 +5214,7 @@
 ###divAds
 ###divAdsTop
 ###divAdv300x250
+###divAdvRandom
 ###divAdvertisement
 ###divAdvertisingSection
 ###divArticleInnerAd
@@ -6630,6 +6636,7 @@
 ###most_popular_ad
 ###motionAd
 ###movads10
+###move-ad
 ###movieads
 ###mozo-ad
 ###mph-rightad
@@ -6668,6 +6675,7 @@
 ###mpu_firstpost
 ###mpu_holder
 ###mpu_text_ad
+###mpu_top
 ###mpuad
 ###mpubox
 ###mpuholder
@@ -7684,6 +7692,7 @@
 ###sp-adv-banner-top
 ###sp-advtop1
 ###sp-advtop3
+###sp-top-ad-wrapper
 ###spec_offer_ad2
 ###special-deals-ad
 ###specialAd
@@ -7978,6 +7987,7 @@
 ###td_adunit2
 ###td_sponsorAd
 ###teads0
+###team_ad
 ###teaser-adtag-left
 ###teaser-adtag-right
 ###temp-ads
@@ -8049,6 +8059,7 @@
 ###top-ad-container
 ###top-ad-content
 ###top-ad-desktop
+###top-ad-div
 ###top-ad-google
 ###top-ad-left-spot
 ###top-ad-menu
@@ -8316,6 +8327,7 @@
 ###vert_ad
 ###vert_ad_placeholder
 ###vertad1
+###vertical.ad
 ###verticalAds
 ###vertical_ad
 ###vertical_ads
@@ -8942,6 +8954,7 @@
 ##.ModeLayout-ad
 ##.MspAd
 ##.NAPmarketAdvert
+##.NA_ad
 ##.NGOLocalFooterAd
 ##.NavBarAd
 ##.NewsAds
@@ -9573,6 +9586,7 @@
 ##.ad-custom-size
 ##.ad-d
 ##.ad-declare-explicit-parallax
+##.ad-decoration
 ##.ad-defer
 ##.ad-desktop
 ##.ad-desktop-only
@@ -9645,6 +9659,7 @@
 ##.ad-grid-container
 ##.ad-group
 ##.ad-grp
+##.ad-halfpage
 ##.ad-hdr
 ##.ad-head
 ##.ad-header
@@ -9763,6 +9778,7 @@
 ##.ad-link-right
 ##.ad-links
 ##.ad-links-text
+##.ad-list-item
 ##.ad-loaded
 ##.ad-location
 ##.ad-location-container
@@ -9776,6 +9792,7 @@
 ##.ad-mad
 ##.ad-main
 ##.ad-manager-ad
+##.ad-manager-placeholder
 ##.ad-margin
 ##.ad-marker
 ##.ad-marketplace
@@ -10024,6 +10041,7 @@
 ##.ad-slot-banner
 ##.ad-slot-container
 ##.ad-slot-container-1
+##.ad-slot-full-width
 ##.ad-slot-sidebar
 ##.ad-slot-sidebar-b
 ##.ad-slot-tall
@@ -11935,6 +11953,7 @@
 ##.ads-cnt
 ##.ads-code
 ##.ads-col
+##.ads-cont
 ##.ads-container-mediumrectangle
 ##.ads-container__inner
 ##.ads-content
@@ -12029,6 +12048,7 @@
 ##.ads-side
 ##.ads-sidebar
 ##.ads-sidebar-boxad
+##.ads-sign
 ##.ads-single
 ##.ads-site
 ##.ads-sky
@@ -13580,6 +13600,7 @@
 ##.advertize_here
 ##.advertlabel
 ##.advertleft
+##.advertlink
 ##.advertnotice
 ##.advertorial
 ##.advertorial-2
@@ -13593,6 +13614,7 @@
 ##.advertorialtitle
 ##.advertorialview
 ##.advertorialwidget
+##.advertouter
 ##.advertplay
 ##.adverts
 ##.adverts--banner
@@ -13661,6 +13683,7 @@
 ##.adwords-container
 ##.adwordsHeader
 ##.adwords_in_content
+##.adworks
 ##.adwrap
 ##.adwrap-widget
 ##.adwrapper-lrec
@@ -13722,6 +13745,7 @@
 ##.after_post_ad
 ##.afterpostadbox
 ##.afw_ad
+##.aggads-ad
 ##.agi-adsaleslinks
 ##.agi-adtop
 ##.ahe-ad.consumable
@@ -14611,6 +14635,7 @@
 ##.breakerAd
 ##.breakingNewsModuleSponsor
 ##.breakthrough-ad
+##.briefNewsAd
 ##.broker-ad
 ##.broker-ads
 ##.broker-ads-center
@@ -15261,11 +15286,13 @@
 ##.dfp-article-ad
 ##.dfp-banner
 ##.dfp-banner-slot
+##.dfp-block
 ##.dfp-button
 ##.dfp-double-mpu
 ##.dfp-dynamic-tag
 ##.dfp-leaderboard
 ##.dfp-leaderboard-container
+##.dfp-panel
 ##.dfp-plugin-advert
 ##.dfp-slot
 ##.dfp-slot-wallpaper
@@ -15285,6 +15312,7 @@
 ##.dfp_ad_inner
 ##.dfp_ad_unit
 ##.dfp_slot
+##.dfp_strip
 ##.dfp_top-ad
 ##.dfp_unit
 ##.dfp_unit-ad_container
@@ -15447,6 +15475,11 @@
 ##.element--ad
 ##.element-ad
 ##.element-adplace
+##.element_contentad1
+##.element_contentad2
+##.element_contentad3
+##.element_contentad4
+##.element_contentad5
 ##.em-ad
 ##.em-ads-widget
 ##.em-adv-container
@@ -15771,6 +15804,7 @@
 ##.full-width-ads
 ##.fullAdBar
 ##.fullSizeAd
+##.fullWidthAd
 ##.full_AD
 ##.full_ad
 ##.full_ad_box
@@ -16312,6 +16346,7 @@
 ##.headerad-720
 ##.headerad-placeholder
 ##.headeradarea
+##.headeradblock
 ##.headeradhome
 ##.headeradinfo
 ##.headeradright
@@ -16500,6 +16535,7 @@
 ##.hp2-adtag
 ##.hpPollQuestionSponsor
 ##.hpPriceBoardSponsor
+##.hpRightAdvt
 ##.hp_320-250-ad
 ##.hp_ad_300
 ##.hp_ad_box
@@ -16830,11 +16866,13 @@
 ##.js-cardview_ad-320x50
 ##.js-dfp-ad
 ##.js-dfp-ad-bottom
+##.js-dfp-ad-top
 ##.js-dfpAdPosSR
 ##.js-googleAdSuperHeader-wrapper
 ##.js-gptAd
 ##.js-header-ad
 ##.js-header-ad-wrapper
+##.js-mpu
 ##.js-native-ad
 ##.js-no-sticky-ad
 ##.js-overlay_ad
@@ -17664,6 +17702,7 @@
 ##.nativeAd-sponsor-position
 ##.nativeMessageAd
 ##.native_ad
+##.native_ad_inline
 ##.nativead
 ##.nativeadasideplaceholder
 ##.nativeads-unt
@@ -17865,7 +17904,6 @@
 ##.other_adv2
 ##.otherheader_ad
 ##.otj_adspot
-##.outbrain-ad-slot
 ##.outer-ad-container
 ##.outer-ad-unit-wrapper
 ##.outerAdWrapper
@@ -17993,6 +18031,7 @@
 ##.paneladvert
 ##.panoramic_ad_placeholder
 ##.parade-ad-container
+##.paragraphAdinsert
 ##.paragraphs-item-advertisement
 ##.paralaxBackgorundAdwords
 ##.partial-ad
@@ -18196,6 +18235,7 @@
 ##.ppb_ads
 ##.ppp_interior_ad
 ##.ppr_priv_footer_banner_ad_billboard
+##.ppr_priv_horizon_ad
 ##.ppr_priv_sponsored_coupon_listing
 ##.pq-ad
 ##.pr-ad-tower
@@ -18455,7 +18495,6 @@
 ##.resourceImagetAd
 ##.respAds
 ##.responsive-ad
-##.responsive-ad-outbrain
 ##.responsive-ad-wrapper
 ##.responsive-ads
 ##.responsiveAdHiding
@@ -18993,6 +19032,7 @@
 ##.sidebar-ads-block
 ##.sidebar-ads-no-padding
 ##.sidebar-ads-wrap
+##.sidebar-adsdiv
 ##.sidebar-adv-container
 ##.sidebar-advert
 ##.sidebar-advertisement
@@ -19061,6 +19101,7 @@
 ##.sidebaradcontent
 ##.sidebarads
 ##.sidebaradsense
+##.sidebarbox__advertising
 ##.sidebarboxad
 ##.sidebox-ad
 ##.sideheadnarrowad
@@ -19080,6 +19121,7 @@
 ##.single-ads
 ##.single-google-ad
 ##.single-item-page-ads
+##.single-mpu
 ##.single-post-ad
 ##.single-post-ads-750x90
 ##.single-top-ad
@@ -19216,6 +19258,7 @@
 ##.smallsponsorad
 ##.smartAd
 ##.smart_ads_bom_title
+##.smartad
 ##.smartadtags_300250
 ##.smartadtagsbutt_orange_30025002
 ##.sml-item-ad
@@ -19367,6 +19410,7 @@
 ##.sponsored-ads
 ##.sponsored-article-item
 ##.sponsored-b
+##.sponsored-block
 ##.sponsored-by-label
 ##.sponsored-by__label
 ##.sponsored-chunk
@@ -19585,6 +19629,7 @@
 ##.sticky-bottom-ad
 ##.sticky-sidebar-ad
 ##.sticky-top-ad-wrap
+##.stickyAd
 ##.stickyAdLink
 ##.stickyAdsGroup
 ##.stickyContainerMpu
@@ -19653,6 +19698,7 @@
 ##.subjects_ad
 ##.submenu_ad
 ##.subtitle-ad-container
+##.sudoku-ad
 ##.sugarad
 ##.suggAd
 ##.suggested-content--ads
@@ -20426,6 +20472,7 @@
 ##.wide_sponsors
 ##.widead
 ##.wideadbox
+##.widget--ajdg_bnnrwidgets
 ##.widget-300x250ad
 ##.widget-ad
 ##.widget-ad-codes
@@ -20648,6 +20695,7 @@
 ##.xads-blk1
 ##.xads-blk2
 ##.xads-ojedn
+##.xeiro-ads
 ##.xmlad
 ##.xs_epic_circ_ad
 ##.xs_epic_sponsor_label
@@ -20750,7 +20798,9 @@
 ##[href*="wap4dollar.com/"]
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://raboninco.com/"]
+##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://go.affiliatexe.com/"]
+##[href^="https://secure.bmtmicro.com/servlets/"]
 ##[id^="adframe_wrap_"]
 ##[id^="bunyad_ads_"]
 ##[lazy-ad="leftbottom_banner"]
@@ -20934,6 +20984,7 @@
 ##a[href^="http://cp.cbbp1.com"]
 ##a[href^="http://cpaway.afftrack.com/"]
 ##a[href^="http://cwcams.com/landing/click/"]
+##a[href^="http://czotra-32.com/"]
 ##a[href^="http://d2.zedo.com/"]
 ##a[href^="http://databass.info/"]
 ##a[href^="http://deloplen.com/afu.php?zoneid="]
@@ -21412,11 +21463,13 @@
 ##div[class^="AdhesionAd_"]
 ##div[class^="BannerAd_"]
 ##div[class^="BlockAdvert-"]
+##div[class^="Component-dfp-"]
 ##div[class^="Directory__footerAds"]
 ##div[class^="Display_displayAd"]
 ##div[class^="PreAd_"]
 ##div[class^="ResponsiveAd-"]
 ##div[class^="SponsoredAds"]
+##div[class^="adUnit_"]
 ##div[class^="ad_border_"]
 ##div[class^="ad_position_"]
 ##div[class^="adbanner_"]
@@ -21485,6 +21538,7 @@
 ##div[id^="div-ads-"]
 ##div[id^="div-adtech-ad-"]
 ##div[id^="div-gpt-ad"]
+##div[id^="divAdvAD_"]
 ##div[id^="div_ad_stack_"]
 ##div[id^="div_openx_ad_"]
 ##div[id^="dmRosAdWrapper"]
@@ -21513,6 +21567,10 @@
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##span[data-component-type="s-ads-metrics"]
 ##topadblock
+! areanews.com.au,armidaleexpress.com.au,avonadvocate.com.au,batemansbaypost.com.au
+##.grid > .container > #aside-promotion
+! google
+##div#main > div.D1fz0e
 ! revcontent
 ##.default_rc_theme
 ##.inf-onclickvideo-adbox
@@ -21683,6 +21741,8 @@
 ##.commercial-unit-mobile-bottom
 ##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
 ##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
+##.commercial-unit-mobile-top > .v7hl4d
+##.commercial-unit-mobile-top > div[data-pla="1"]
 ##.commercial-unit-tiles-immersive
 ##.gws-flights-book__ads-wrapper
 ##.lads[width="100%"][style="background:#FFF8DD"]
@@ -21702,6 +21762,7 @@
 ##div[data-flt-ve="sponsored_search_ads"]
 ##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
 ##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
 ##div[role="navigation"] + c-wiz > div > .kxhcC
 ##div[role="navigation"] + c-wiz > script + div > .kxhcC
 ! Sedo
@@ -21711,6 +21772,7 @@
 ###header + #content > #left > #rlblock_left
 ! Outbrain
 ###adv_outbrain_SB_1_sidebar
+###container-outbrain-sticky
 ###js-outbrain-ads-module
 ###js-outbrain-rightrail-ads-module
 ###outbrain-paid
@@ -21718,12 +21780,16 @@
 ###outbrain_dual_ad_fs_0_dual
 ###outbrain_vertical
 ##.Cheat__outbrain
+##.fake-container-for-outbrain-sticky
 ##.js-outbrain-container
 ##.ob-ad-carousel-layout
+##.outbrain-ad-slot
+##.outbrain-widget
 ##.outbrain_ad_li
 ##.outbrain_dual_ad_whats_class
 ##.outbrain_ul_ad_top
 ##.promoted-outbrain
+##.responsive-ad-outbrain
 ##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
 ##a[data-obtrack^="http://paid.outbrain.com/network/redir?"]
 ##a[data-oburl^="http://paid.outbrain.com/network/redir?"]
@@ -21790,6 +21856,7 @@
 ##.taboola_blk
 ##.taboola_block1
 ##.taboola_lhs
+##.trb_taboola
 ##.trc_rbox .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
 ##.trc_rbox_div .syndicatedItem

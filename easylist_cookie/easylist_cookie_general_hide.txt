@@ -2351,6 +2351,7 @@
 ###cookiePromptWrapper
 ###cookieQ
 ###cookieQuestion
+###cookieRegulation
 ###cookieRequestLayer
 ###cookieRules
 ###cookieScreen
@@ -2666,6 +2667,7 @@
 ###cookie_overlay
 ###cookie_panel
 ###cookie_panel_2018
+###cookie_parent
 ###cookie_permission
 ###cookie_permission_banner
 ###cookie_permissions_alert
@@ -2927,6 +2929,7 @@
 ###cookielegislation
 ###cookielightbox
 ###cookielista
+###cookieman-modal
 ###cookiemanager_cookiebar
 ###cookiemeld
 ###cookiemelder
@@ -9803,6 +9806,7 @@
 ##.gdprcookie
 ##.gdprcookie-wrapper
 ##.gdprfooter
+##.gdprmodal-backdrop
 ##.gdprpopup
 ##.gdprrhs
 ##.gdrp-cookie-banner-wrapper
@@ -10526,6 +10530,8 @@
 ##.mui-js-cookie-banner
 ##.must_show_cookie
 ##.mw-cookiewarning-container
+##.mw-dsgvo-cookie-slidebar-fixed-bg_01
+##.mw-dsgvo-cookie-slidebar_01
 ##.mw-notification-tag-cookiePolicy
 ##.mw_cookie_info_bar
 ##.mxd-cookie-bar
@@ -11585,6 +11591,7 @@
 ##.weUseCookies
 ##.web-cookies-inline
 ##.webshop-cookie-warning
+##.website-cookie-banner
 ##.wecookiepop-container
 ##.welcome-cookies
 ##.welcome-privacy

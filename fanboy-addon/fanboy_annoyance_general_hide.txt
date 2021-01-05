@@ -834,6 +834,7 @@
 ###new_newsletter
 ###new_newsletter_subscription
 ###newletterF
+###newletterspanel
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
@@ -914,6 +915,7 @@
 ###newsletter-sign-up-message
 ###newsletter-signUpWidget
 ###newsletter-signup
+###newsletter-signup-bottom-sheet
 ###newsletter-signup-box
 ###newsletter-signup-box-contents
 ###newsletter-signup-dialog
@@ -1114,6 +1116,7 @@
 ###sendinblue-form-subscribe
 ###sendpress_signup
 ###series-newsletter-signup
+###sezione-newsletter
 ###share-newsletter
 ###shortSignup
 ###sib_embed_signup
@@ -1236,6 +1239,7 @@
 ###wp_newsletter
 ##.-newsletter-signup
 ##.ALS_IL_Holder
+##.CTA-module_enews
 ##.CheatNewsletter
 ##.DFNewsletterSignup
 ##.DivNewsLetter
@@ -1284,6 +1288,7 @@
 ##.alo_easymail_widget
 ##.alt-sign-up
 ##.anchored--newsletter
+##.andro-newsletter-signup
 ##.animated-email-box
 ##.announcement-fly-in
 ##.aol-newsletter
@@ -1645,6 +1650,7 @@
 ##.gf2_newsletter
 ##.gh-subscribe
 ##.giga-email-subscribe
+##.global-article-newsletter
 ##.global-nav__subscribe-toggle
 ##.global-newsletter-sign-up
 ##.glomo_newsletter_signup
@@ -2489,6 +2495,7 @@
 ##.uiLayer-newsletterLink
 ##.umhs-emma-email-container
 ##.unit--newsletter
+##.unitnewsletter
 ##.valor_newsletter_front
 ##.vb-magazine-newsletter
 ##.vc_newsletter_button

@@ -95,6 +95,7 @@
 ||digitaloceanspaces.com^*/promo-banner-brave.$domain=pipeflare.io
 ||diglloyd.com/js2/pub-wide2-ck.js
 ||dj1symwmxvldi.cloudfront.net/r/$image,domain=coderwall.com
+||dmxleo.dailymotion.com^
 ||dnsleaktest.com/assets/img/cute-box-image.png
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com^*/banners/
@@ -129,11 +130,13 @@
 ||f1i.com^*/hype/
 ||facebook.com/video/instream_video/$xmlhttprequest
 ||facebook.com^*/instream/vast.xml?
+||failgags.com/yxsfidlqemb.php
 ||familylawweek.co.uk/bin_1/
 ||fc.lc/js/nt.js
 ||fc.lc^$subdocument,~third-party
 ||ferrarichat.com^*/sponsors/
 ||feurl.com/asset/barr.js
+||file-upload.net/include/img/300-
 ||finchannel.com/images/banners/
 ||findit.com.mt/viewer/
 ||finextra.com/finextra-images/leaderboards/
@@ -191,6 +194,7 @@
 ||howtogermany.com/images/but-
 ||i-tech.com.au/media/wysiwyg/banner/
 ||iamcdn.net/players/adeet.min.js$script,domain=playhydrax.com
+||ice.hockey/images/sponsoren/
 ||iceinspace.com.au/iisads/
 ||idlebrain.com^*/footer-
 ||idlebrain.com^*/hor-
@@ -240,6 +244,7 @@
 ||maxgames.com/img/sponsor_
 ||mbauniverse.com/sites/default/files/shree.png
 ||mbl.is/augl/
+||mct.etherscan.com^
 ||mediamanager.co.za/img/banners/
 ||metrotimes.com/binary/
 ||mixdrop.co/xvideo-js
@@ -250,6 +255,9 @@
 ||musicatorrents.com^*/script.
 ||musictarget.com*/!
 ||mygaming.co.za^*/partners/
+||mytuner.mobi^*/solitaire.png
+||mytuner.mobi^*/sudoku.png
+||mytuner.mobi^*/wordsearch.png
 ||myunique.info/wp-includes/js/pop.js
 ||namepros.com/images/backers/
 ||nativetimes.com/images/banners/
@@ -319,6 +327,7 @@
 ||speedvideo.net/img/pla_
 ||spongepowered.org^*/assets/img/sponsors/
 ||sportpesanews.com/images/promo/
+||stagevu.com/AR2F6eftuQmA.js
 ||static.tellerium.com^$subdocument
 ||steamanalyst.com/www
 ||stockhouse.com^*-300x75.gif
@@ -332,7 +341,6 @@
 ||talkmagic.co.uk/aimages/$image
 ||tamilwire.org/images/banners3/
 ||taxsutra.com^*/banner/
-||tbib.org/gaming/clicker.php
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
 ||theage.com.au/assets/europa.
